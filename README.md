@@ -1,43 +1,8 @@
-# Generative-AI
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
-Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts
-    
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-     by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	 unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
+Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
 Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion. More projects can be found in the [Discoveries List](DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
@@ -60,24 +25,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
-- [ChatGPT Heralds an Intellectual
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	 Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
+- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
 
 ### Milestones
 
@@ -96,29 +44,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety
-
-
- 
-   
-  of natural language tasks
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	, and Codex, which translates natural language to code.
+- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
